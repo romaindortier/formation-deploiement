@@ -1,0 +1,14 @@
+name: My-article
+type: module
+core: 8.x
+dependencies:
+  - comment
+  - field
+  - file
+  - image
+  - node
+  - path
+  - rdf
+  - taxonomy
+  - text
+  - user

@@ -1,0 +1,5 @@
+layout_plugin_ui.admin:
+  route_name: layout_plugin_ui.admin
+  title: 'Layout Plugin UI'
+  description: 'List all registred layouts.'
+  parent: system.admin_config_development
